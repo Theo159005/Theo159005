@@ -48,4 +48,16 @@ para resolver problemas reais.
   <a href="https://substack.com/@lidarcomavida?utm_source=user-menu" target="_blank">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white">
   </a>
+  <video autoplay muted loop style="
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  width: 150px; /* tamanho do vídeo */
+  height: auto;
+  border-radius: 10px;
+  z-index: 1000;
+">
+  <source src="personagem.mp4" type="video/mp4">
+  Seu navegador não suporta vídeo.
+</video>
 </div>
