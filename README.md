@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="htmlgit.png" alt="Banner de programação" width="100%">
+  <img src="htmlgit.png" alt="Banner de programação" width="1200" height="800">
 </p>
 
 <h3 align="center"><em>Compreender o mundo para poder transformá-lo.</em></h3>
