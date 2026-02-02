@@ -37,30 +37,21 @@ para resolver problemas reais.
 
 ## 🌐 Contato
 
-<div>
-  <a href="https://www.linkedin.com/in/theo-barbosa-61058536b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:theobarbosa.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
-  </a>
-  
-  <a href="https://substack.com/@lidarcomavida?utm_source=user-menu" target="_blank">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white">
-  </a>
-</div>
-
-<!-- Vídeo flutuante no canto inferior direito -->
-<video autoplay muted loop style="
-  position: fixed;
-  bottom: 10px;
-  right: 10px;
-  width: 150px;
-  height: auto;
-  border-radius: 10px;
-  z-index: 1000;
-">
-  <source src="personagem.mp4" type="video/mp4">
-  Seu navegador não suporta vídeo.
-</video>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/theo-barbosa-61058536b/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <a href="mailto:theobarbosa.dev@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
+      </a>
+      <a href="https://substack.com/@lidarcomavida?utm_source=user-menu" target="_blank">
+        <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white">
+      </a>
+    </td>
+    <td align="right">
+      <img src="nome.gif" alt="GIF animado" width="40">
+    </td>
+  </tr>
+</table>
