@@ -28,7 +28,7 @@ para resolver problemas reais.
   <img align="center" alt="JavaScript" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="NodeJS" height="35" width="45"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Python" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
