@@ -18,7 +18,7 @@ para resolver problemas reais.
 
 ---
 
-## 🛠️ Tecnologias que estudo
+## 🛠️ Tecnologias de estuda
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="35" width="45"
@@ -26,7 +26,7 @@ para resolver problemas reais.
   <img align="center" alt="CSS3" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="35" width="45"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="NodeJS" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="35" width="45"
@@ -55,3 +55,4 @@ para resolver problemas reais.
     </td>
   </tr>
 </table>
+/>
