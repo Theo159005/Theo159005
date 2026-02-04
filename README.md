@@ -40,7 +40,7 @@ para resolver problemas reais.
 <table>
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/theo-barbosa-61058536b/" target="_blank">
+      <a href="https://www.linkedin.com/in/theo-barbosa-colen-61058536b/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
       <a href="mailto:theobarbosa.dev@gmail.com" target="_blank">
