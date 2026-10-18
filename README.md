@@ -38,7 +38,7 @@ IFNMG
       <a href="https://www.instagram.com/theo_b.colen/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
-      <a href="mailto:theobarbosa.dev@gmail.com" target="_blank">
+      <a href="mailto:theobarbosa150590@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
       </a>
     </td>
