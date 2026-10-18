@@ -13,12 +13,12 @@
 📐 Matemática • 🇧🇷 História do Brasil • 💻 Computação  
 🥋 Judô | 💻 Programação  
 
-Programação, para mim, é a aplicação prática da lógica e do pensamento estruturado
-para resolver problemas reais.
+Estudante de informática integrado ao ensino médio.
+IFNMG
 
 ---
 
-## 🛠️ Tecnologias de estuda
+## 🛠️ Tecnologias de estudo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML5" height="35" width="45"
@@ -27,8 +27,8 @@ para resolver problemas reais.
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NodeJS" height="35" width="45"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="CPP" height="35" width="45"
+    src="<raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
