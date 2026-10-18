@@ -3,16 +3,16 @@
   <img src="htmlgit.png" alt="Banner de programação" width="100%" height="350">
 </p>
 
-<h3 align="center"><em>Compreender o mundo para poder transformá-lo.</em></h3>
+
 
 <br>
 
 ## 👋 Olá! Eu sou o Theo 
 
-🎓 Estudante | Programador em formação  
+🎓 Estudante 
 📍 Brasil  
 📐 Ciências Exatas • 🇧🇷  • 💻 Computação  
-🥋 Judô |   
+🥋 Judô  
 
 Estudante de informática integrado ao ensino médio.  
 IFNMG
