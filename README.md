@@ -45,9 +45,6 @@ IFNMG
       <a href="mailto:theobarbosa.dev@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red">
       </a>
-      <a href="https://substack.com/@lidarcomavida?utm_source=user-menu" target="_blank">
-        <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white">
-      </a>
     </td>
     <td align="right">
       <img src="nome.gif" alt="GIF animado" width="40">
