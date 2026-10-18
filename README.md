@@ -7,12 +7,12 @@
 
 <br>
 
-## 👋 Olá! Eu sou o Theo Barbosa
+## 👋 Olá! Eu sou o Theo 
 
 🎓 Estudante | Programador em formação  
 📍 Brasil  
-📐 Matemática • 🇧🇷 História do Brasil • 💻 Computação  
-🥋 Judô | 💻 Programação  
+📐 Ciências Exatas • 🇧🇷  • 💻 Computação  
+🥋 Judô |   
 
 Estudante de informática integrado ao ensino médio.  
 IFNMG
