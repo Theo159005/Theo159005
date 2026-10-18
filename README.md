@@ -6,15 +6,14 @@
 
 
 <br>
-
-## 👋 Olá! Eu sou o Theo 
+ 
 
 🎓 Estudante 
 📍 Brasil  
 📐 Ciências Exatas • 🇧🇷  • 💻 Computação  
 🥋 Judô  
 
-Estudante de informática integrado ao ensino médio.  
+Téc. Info
 IFNMG
 
 ---
@@ -36,9 +35,6 @@ IFNMG
 <table>
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/theo-barbosa-colen-61058536b/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-      </a>
       <a href="https://www.instagram.com/theo_b.colen/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
       </a>
