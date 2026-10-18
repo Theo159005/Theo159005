@@ -27,8 +27,8 @@ IFNMG
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="CPP" height="35" width="45"
-    src=<"raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ <img align="center" alt="C++" height="35" width="45"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="35" width="45"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
